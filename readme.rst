@@ -1,70 +1,37 @@
 ###################
-What is CodeIgniter
+Apa Itu Autis
 ###################
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+Kata autism berasal dari bahasa yunani yang terdiri dari dua kata yaitu ”aut” yang berarti “diri sendiri” dan “ism” yang secara tidak langsung menyatakan orientasi atau arah keadaan (state). Sehingga autism sendiri dapat didefinisikan sebagai kondisi seseorang yang biasa asyik dengan dirinya sendiri.. pengertian ini menunjuk pada bagaimana anak-anak autis gagal bertindak dengan minat pada orang lain, tetapi kehilangan beberapa penonjolan perilaku mereka. Ini, tidak membantu orang lain untuk memahami seperti apa dunia mereka. Autis pertama kali diperkenalkan dalam suatu makalah pada tahun 1943 oleh seorang psikiatris Amerika yang bernama Leo Kanner. Ia menemukan sebelas anak yang memiliki ciri-ciri yang sama, yaitu tidak mampu berkomunikasi dan berinteraksi dengan individu lain dan sangat tak acuh terhadap lingkungan di luar dirinya, sehingga perilakunya tampak seperti hidup dalam dunianya sendiri. Autis merupakan suatu gangguan perkembangan yang kompleks berhubungan dengan komunikasi, interaksi sosial dan aktivitas imajinasi. Gejalanya tampak pada sebelum usi 3 tahun. Bahkan apabila autis infantile gejalanya sudah sejak bayi.
 
 *******************
-Release Information
+Sumber Dataset
 *******************
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+https://www.kaggle.com/fabdelja/autism-screening-for-toddlers
 
 **************************
-Changelog and New Features
+Video Presentasi
 **************************
 
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
+https://youtu.be/prjnSQi7bb4
 
 *******************
-Server Requirements
+Kelompok
 *******************
 
-PHP version 5.6 or newer is recommended.
-
-It should work on 5.3.7 as well, but we strongly advise you NOT to run
-such old versions of PHP, because of potential security and performance
-issues, as well as missing features.
+Gustinar Yus Yuniarto - 180535632608
+Muhammad Rifky Prayanta - 180535632608
 
 ************
-Installation
+Tools
 ************
 
-Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
-
-*******
-License
-*******
-
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
+Codeigniter
+Rapidminer
 
 *********
-Resources
+Sumber
 *********
 
--  `User Guide <https://codeigniter.com/docs>`_
--  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
--  `Community Forums <http://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community Slack Channel <https://codeigniterchat.slack.com>`_
-
-Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
-or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
-
-***************
-Acknowledgement
-***************
-
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
+https://cahyadsn.phpindonesia.id/extra/naive_bayes.php
